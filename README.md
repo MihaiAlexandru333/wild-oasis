@@ -10,4 +10,4 @@ This project is a management dashboard for The Wild Oasis Cabin Resort. It provi
 - Detailed guest information
 - Filter and search functionality
 - (Add any other features here)
-
+- bult with React Query and Supabase
